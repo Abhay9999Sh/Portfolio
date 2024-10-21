@@ -34,3 +34,7 @@ Feel free to reach out if you have any questions or collaboration opportunities!
 
 1. Email: abhay11042004@gmail.com
 2. LinkedIn: https://www.linkedin.com/in/abhay-sharma-151912286/
+
+# Live Portfolio
+You can view the live version of my portfolio at the following link:
+https://abhay9999sh.github.io/Portfolio/
